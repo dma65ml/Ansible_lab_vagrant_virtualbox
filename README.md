@@ -22,4 +22,4 @@ https://ostechnix.com/ansible-lab-setup-with-vagrant-and-virtualbox-in-linux/
 \
 `vagrant ssh controller`\
 `cd /home/vagrant/`\
-`bash key_gen.sh`\
+`bash key_gen.sh`
